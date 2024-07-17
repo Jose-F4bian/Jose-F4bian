@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-¡Bienvenido! Soy **José Fabian León Saavedra**, un desarrollador apasionado por la tecnología y la innovación. Me especializo en el desarrollo de aplicaciones web, siempre estoy en la búsqueda de nuevas formas de mejorar mis habilidades y ofrecer soluciones eficientes y escalables.
+¡Bienvenido! Soy **José Fabian León Saavedra**, un programador apasionado por la tecnología y la innovación. Me especializo en el desarrollo de aplicaciones web, siempre estoy en la búsqueda de nuevas formas de mejorar mis habilidades y ofrecer soluciones eficientes y escalables.
 
 ### Áreas de Interés
 
