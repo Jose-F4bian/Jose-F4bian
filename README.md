@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif?cid=ecf05e47u8bfqekn1ptzwkvr23bjt9601wysla85z1regv4z&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/> ¡Encantado de verte! 
+# ¡Encantado de verte! <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif?cid=ecf05e47u8bfqekn1ptzwkvr23bjt9601wysla85z1regv4z&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
 
 ## Sobre mí
 
